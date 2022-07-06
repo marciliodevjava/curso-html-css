@@ -1,0 +1,19 @@
+* {
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: red;
+    color: white;
+}
+
+#cabecalho {
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.bold {
+    color: rgb(9, 95, 60);
+}
